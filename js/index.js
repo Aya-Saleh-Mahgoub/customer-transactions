@@ -86,7 +86,7 @@ function addData(data) {
     axisX: {
       title: "Date",
       interval: 1,
-      intervalType: "day",
+      // intervalType: "day",
       valueFormatString: "YYYY-MM-DD" // Format for the x-axis labels
     },
     axisY: {
